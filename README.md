@@ -12,6 +12,10 @@
 
  This data analysis project focus on evaluating the performance of a call center. It examines key metrics such as call volume, response times, call duration, and customer satisfaction. The analysis helps identify patterns in agent performance, peak call hours, and overall service efficiency. The goal is to optimize operations, improve customer service, and enhance the effectiveness of the call center team.
 
+
+![Screenshot 2024-05-29 125326](https://github.com/user-attachments/assets/87494461-645c-40aa-b77d-cbe4d582cd01)
+
+
 ### Data Sources
 
 Data was provided online in Excel format. I downloaded the CSV file and imported it into Power BI for cleaning, analysis, and visualization. The data contains a sheet/table called call center with 32,941 rows and 12 columns.
@@ -36,6 +40,9 @@ Some of the applied steps included
  - Show the Total Calls by Day
  - Show the Total Calls by Reason
  - Show the Total Calls by Channel
+
+ - 
+![Screenshot 2024-05-29 125645](https://github.com/user-attachments/assets/9b07b472-0347-4f8e-bf21-253d22c0b5cf)
 
 ### Data Analysis
 
