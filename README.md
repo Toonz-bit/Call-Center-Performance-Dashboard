@@ -7,6 +7,10 @@
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Result/Findings](#result/findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 
@@ -77,3 +81,12 @@ The average call duration may not fully capture the complexity of the issues han
 1. Call Center Helper: Guides on essential metrics and benchmarks for call center performance.
 2. [Call Center Helper - Top 10 Call Center Metrics]
 
+
+😄
+
+☎️
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Excel|Power Bi|
