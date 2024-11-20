@@ -76,6 +76,8 @@ Based on the analysis, we recommend the following actions :
 The insights depend heavily on the accuracy and completeness of the data collected.
 The average call duration may not fully capture the complexity of the issues handled. Some calls might be longer due to the nature of the problem, which could limit the effectiveness of reducing call times without compromising service quality.
 
+This is the link to the dashboard _**[Here](https://app.powerbi.com/links/CEc3YpaF-B?ctid=68d0e28b-8755-4832-b3bc-da8d0637c69d&pbi_source=linkShare)**_
+
 ### References
 
 1. Call Center Helper: Guides on essential metrics and benchmarks for call center performance.
